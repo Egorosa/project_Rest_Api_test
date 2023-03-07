@@ -1,0 +1,9 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "^5.4",
+        "nesbot/carbon": "^2.59",
+        "illuminate/database": "^8.5",
+        "slim/slim": "^4.0",
+        "slim/psr7": "dev-master"
+    }
+}
